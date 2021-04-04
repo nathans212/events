@@ -1,0 +1,2 @@
+BlockBreakEvent:BlockBreakEvent.getHandlerList().unregister(plugin);
+BlockBurnEvent:BlockBurnEvent.getHandlerList().unregister(plugin);
