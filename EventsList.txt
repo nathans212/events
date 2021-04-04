@@ -1,2 +1,3 @@
 BlockBreakEvent:BlockBreakEvent.getHandlerList().unregister(plugin);
 BlockBurnEvent:BlockBurnEvent.getHandlerList().unregister(plugin);
+SteppedOnBlock:BlockBurnEvent.getHandlerList().unregister(plugin);
